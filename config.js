@@ -68,5 +68,5 @@ CKEDITOR.editorConfig = function( config ) {
 		'wysiwygarea';
 	// %REMOVE_END%
 };
-
+CKEDITOR.config.entities = false;
 // %LEAVE_UNMINIFIED% %REMOVE_LINE%
